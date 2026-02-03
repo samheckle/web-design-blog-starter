@@ -3,18 +3,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Blog Title</title>
   <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="https://example.com/web-projects-blog-starter/feed/feed.xml" rel="self" />
-  <link href="https://example.com/web-projects-blog-starter/" />
+  <link href="https://example.com/web-design-blog-starter/feed/feed.xml" rel="self" />
+  <link href="https://example.com/web-design-blog-starter/" />
   <updated>2026-02-03T00:00:00Z</updated>
-  <id>https://example.com/web-projects-blog-starter/</id>
+  <id>https://example.com/web-design-blog-starter/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
     <title>How to Write a Blog</title>
-    <link href="https://example.com/web-projects-blog-starter/blog/example_post/" />
+    <link href="https://example.com/web-design-blog-starter/blog/example_post/" />
     <updated>2026-02-03T00:00:00Z</updated>
-    <id>https://example.com/web-projects-blog-starter/blog/example_post/</id>
+    <id>https://example.com/web-design-blog-starter/blog/example_post/</id>
     <content type="html">&lt;p&gt;We can write our blogs using the &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown framework&lt;/a&gt;. Markdown, similar to HTML, is a markup language.&lt;/p&gt;
 &lt;h2 id=&quot;using-makes-headers-useful-to-section-content&quot;&gt;Using &lt;code&gt;#&lt;/code&gt; Makes Headers, Useful to Section Content&lt;/h2&gt;
 &lt;h3 id=&quot;more-creates-subheadings&quot;&gt;More &lt;code&gt;##&lt;/code&gt; Creates Subheadings&lt;/h3&gt;
@@ -22,7 +22,7 @@
 &lt;p&gt;We can embed links, or we can also use regular HTML.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.google.com/&quot;&gt;Regular &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.google.com/&quot;&gt;Markdown linking&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I can also link to &lt;a href=&quot;https://example.com/web-projects-blog-starter/blog/example_post/#now-i-am-at-the-bottom&quot;&gt;another section of the page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I can also link to &lt;a href=&quot;https://example.com/web-design-blog-starter/blog/example_post/#now-i-am-at-the-bottom&quot;&gt;another section of the page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can write code in code blocks, using ```&lt;/p&gt;
 &lt;pre class=&quot;language-js&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
